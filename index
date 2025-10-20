@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Katerina Marketing Company</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      line-height: 1.6;
+      background-color: #f5f5f5;
+      color: #333;
+    }
+    header {
+      background-color: #4CAF50;
+      color: white;
+      padding: 50px 20px;
+      text-align: center;
+    }
+    section {
+      padding: 50px 20px;
+      max-width: 800px;
+      margin: auto;
+    }
+    h2 {
+      color: #4CAF50;
+    }
+    footer {
+      background-color: #333;
+      color: white;
+      text-align: center;
+      padding: 20px;
+    }
+    a.button {
+      display: inline-block;
+      padding: 10px 20px;
+      margin-top: 20px;
+      background-color: #4CAF50;
+      color: white;
+      text-decoration: none;
+      border-radius: 5px;
+    }
+    a.button:hover {
+      background-color: #45a049;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <h1>Welcome to Your Marketing Company</h1>
+    <p>Helping businesses grow online</p>
+  </header>
+
+  <section id="services">
+    <h2>Our Services</h2>
+    <ul>
+      <li>Social Media Marketing</li>
+      <li>Digital Advertising</li>
+      <li>Brand Strategy</li>
+      <li>Content Creation</li>
+    </ul>
+  </section>
+
+  <section id="about">
+    <h2>About Us</h2>
+    <p>We are a small marketing team passionate about helping businesses expand their reach online. Our strategies are data-driven and customized to each client’s needs.</p>
+  </section>
+
+  <section id="contact">
+    <h2>Contact Us</h2>
+    <p>Email: contact@yourcompany.com</p>
+    <p>Phone: +1 (555) 123-4567</p>
+    <a class="button" href="mailto:contact@yourcompany.com">Get in Touch</a>
+  </section>
+
+  <footer>
+    &copy; 2025 Your Marketing Company. All rights reserved.
+  </footer>
+
+</body>
+</html>
